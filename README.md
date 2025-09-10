@@ -31,7 +31,7 @@ Encender la chispa creativa en principiantes, ofreciendo recursos educativos par
 **🎉 Crea Ahora**  
 ¡Desata tu imaginación con **RobloxJuego**!  
 
-[![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/CreaJardin/RobloxJuego)  
+ 
 
 ---
 
