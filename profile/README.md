@@ -1,5 +1,10 @@
 # 🎮 CreaJardin 🌈  
 
+
+![Vista Previa](https://i.imgur.com/ZqvaHcL.jpeg) 
+
+
+
 ![Visitantes: 22K+](https://img.shields.io/badge/Visitantes-22K+-ff9f43) ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-3498db)  
 
 **🌟 ¡Bienvenidos, Creadores!**  
